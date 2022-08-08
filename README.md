@@ -1,4 +1,4 @@
-# Rotating Globe earth_africa 	:earth_africa:
+# Rotating Globe :earth_africa:
 
 | Table Of Contents       | link          |
 | ----------------------- | ------------- |

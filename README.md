@@ -4,7 +4,6 @@
 | ----------------------- | ------------- |
 | About 🔍                 | [here](#1)    | 
 | Running 🛠️               | [here](#2)    |
-| Live Version            | [here](#https://vadimasko.github.io/threeJS-earth-globe/) |
 
 ## About 🔍 <a name='1'></a>
 Rotating Globe made using these dependencies: 
